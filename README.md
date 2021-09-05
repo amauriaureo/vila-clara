@@ -15,14 +15,17 @@ Esse projeto nasceu de um desafio proposto pela Gama Academy e os desenvolvedore
 | Criação de uma SPA para a associação |
 | Publica-lo na web |
 
-## Sprint
+## Sprint única
 Duração de 5 dias
 
+ - [FRONT] Como possível colaborador quero entender os meios pelos quais posso colaborar. 
+
 #### Tasks
-- [X] Equipe de Product Design entregar layout
-- [X] Entrega de imagens tratadas
-- [X] Criação do repositório do Github 
-- [ ] Reunião e mentoria
+- [x] Trabalho de pesquisa;
+- [X] Entrega de layout;
+- [X] Entrega de imagens tratadas;
+- [X] Criação do repositório do Github; 
+- [ ] Reunião e mentoria;
 - [ ] Arquitetura de página de reservas utilizando CSS e HTML;
 - [ ] Implentação utilizando bootstrap;
 

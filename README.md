@@ -6,7 +6,7 @@ O propósito do site é mostrar o trabalho da associação, bem como colaborar n
 Esse projeto nasceu de um desafio proposto pela Gama Academy e os desenvolvedores que fazem parte desse desafio são:
 * [Matheus](https://github.com/matheusgmartinez)
 * [Gustavo]
-* [Amauri] (https://github.com/amauriaureo)
+* [Amauri](https://github.com/amauriaureo)
 
 
 ## Sprint

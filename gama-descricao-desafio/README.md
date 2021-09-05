@@ -39,5 +39,5 @@ A entrega final será um vídeo de até 1 minutos sobre a ONG escolhida e suas n
 
 - [x] O Report Final (com todas as ações documentadas) deverá ser entregue até a outra sexta-feira  (10/09) as 11h59 com o link do vídeo.
 
-####Partiu transformar vidas? 
+#### Partiu transformar vidas? 
 

@@ -8,3 +8,8 @@ Esse projeto nasceu de um desafio proposto pela Gama Academy e os desenvolvedore
 * Gustavo
 * Amauri 
 
+
+## Sprint
+Duração de 7 dias
+
+Você pode encontrar o layout do site (aqui)[https://www.figma.com/file/Ghf9oLWM9qnWzqYJXDjDPu/Projeto-ONG---Gama-Academy?node-id=79%3A29].

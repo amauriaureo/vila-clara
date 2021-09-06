@@ -18,7 +18,7 @@ Esse projeto nasceu de um desafio proposto pela Gama Academy e os desenvolvedore
 ## Sprint única
 Duração de 5 dias
 
- - [FRONT] Como possível colaborador quero entender os meios pelos quais posso colaborar. 
+ - [FRONT] Como possível colaborador quero entender os meios pelos quais posso colaborar com a causa da associação. 
 
 #### Tasks
 - [x] Trabalho de pesquisa;

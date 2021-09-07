@@ -25,8 +25,9 @@ Duração de 5 dias
 - [X] Entrega de layout;
 - [X] Entrega de imagens tratadas;
 - [X] Criação do repositório do Github; 
-- [ ] Arquitetura da página(HTML)
+- [x] Arquitetura da página(HTML)
 - [ ] Arquitetura da página(CSS)
 - [ ] Arquitetura da página(Bootstrap)
+- [ ] Texto formatado
 
 Você pode encontrar o layout do site [aqui](https://www.figma.com/file/Ghf9oLWM9qnWzqYJXDjDPu/Projeto-ONG---Gama-Academy?node-id=79%3A29).

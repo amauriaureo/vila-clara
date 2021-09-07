@@ -1,14 +1,29 @@
 * {
     /* background-color: #DCEFC1; */
     text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 .ajudar {
     display: block;
     align-items: center;
 }
+body{
+    background-color: #dcefc1;
+}
+p{
+    font-size: 16px;
+}
 .enquadramento {
-    background-color: white;
+    /* background-color: white; */
     border-width: 20px;
     border-radius: 18px;
+    border: 5px solid #d4c1ef;
+    padding: 30px;
+    background-color:#fff;
+    margin: 10px;
+}
+h3{
+    margin-left: 10px;
+    margin-right: 10px;
 }
 

@@ -28,3 +28,39 @@ h3{
 .card-text {
     font-size: 12px;
 }
+@media(min-width: 450px){
+    .card-text{
+        font-size: 12px;
+        padding-top: 7px;
+    }
+   }
+   @media(min-width: 500px){
+    .card-text{
+        font-size: 14px;
+        padding-top: 10px;
+    }
+   }
+   @media(min-width: 550px){
+    .card-text{
+        font-size: 16px;
+        padding-top: 13px;
+    }
+   }
+   @media(min-width: 600px){
+    .card-text{
+        font-size: 16px;
+        padding-top: 20px;
+    }
+   }
+   @media(min-width: 650px){
+    .card-text{
+        font-size: 16px;
+        padding-top: 30px;
+    }
+   }
+   @media(min-width: 700px){
+    .card-text{
+        font-size: 16px;
+        padding-top: 40px;
+    }
+   }

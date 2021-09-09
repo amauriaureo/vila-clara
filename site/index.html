@@ -15,30 +15,8 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">Navbar</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-          <a class="nav-link" href="#">Features</a>
-          <a class="nav-link" href="#">Pricing</a>
-          <a class="nav-link disabled">Disabled</a>
-        </div>
-      </div>
-    </div>
-  </nav>
-  <div id="list-example" class="list-group">
-    <a class="list-group-item list-group-item-action" href="#list-item-1">Quem Somos</a>
-    <a class="list-group-item list-group-item-action" href="#list-item-2">Item 2</a>
-    <a class="list-group-item list-group-item-action" href="#list-item-3">Item 3</a>
-    <a class="list-group-item list-group-item-action" href="#list-item-4">Item 4</a>
-  </div>
   <div class="enquadramento">
-    <img src="./img/colaborar/1.svg" alt="logo da associação" style="max-width: 100%" class="logo-center" />
+    <img src="./img/colaborar/1.svg" alt="logo da associação" style="max-width: 100%" class="logo-center" id="topo"/>
     <p></p>
     <h1>Associação Comunidade Ativa de Vila Clara</h1>
     <p></p>
@@ -124,11 +102,11 @@
 
 
   <div class="enquadramento">
-    <h2>Quem é Maria</h2>
+    <h2 id="list-item-2">Quem é Maria</h2>
   </div>
 
   <div class="enquadramento">
-    <h1>Como posso ajudar</h1>
+    <h1 id="list-item-3">Como posso ajudar</h1>
     <p></p>
     <h3>Você pode nos ajudar da seguintes formas:</h3>
     <p></p>
@@ -210,5 +188,20 @@
       class="img-fluid rounded-start" alt="..." style="width: 45px;" /></a>
   <p></p>
 </footer>
-
+<nav class="navbar navbar-light bg-light" style="position: fixed; top: -10px">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Topo</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <!-- <a class="nav-link active" aria-current="page" href="#topo">Topo</a> -->
+        <a class="nav-link" href="#list-item-1">Quem Somos</a>
+        <a class="nav-link" href="#list-item-2">Quem é Maria</a>
+        <a class="nav-link" href="#list-item-3">Como posso ajudar</a>
+      </div>
+    </div>
+  </div>
+</nav>
 </html>

@@ -15,7 +15,28 @@
 </head>
 
 <body>
-
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link disabled">Disabled</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div id="list-example" class="list-group">
+    <a class="list-group-item list-group-item-action" href="#list-item-1">Quem Somos</a>
+    <a class="list-group-item list-group-item-action" href="#list-item-2">Item 2</a>
+    <a class="list-group-item list-group-item-action" href="#list-item-3">Item 3</a>
+    <a class="list-group-item list-group-item-action" href="#list-item-4">Item 4</a>
+  </div>
   <div class="enquadramento">
     <img src="./img/colaborar/1.svg" alt="logo da associação" style="max-width: 100%" class="logo-center" />
     <p></p>
@@ -31,7 +52,7 @@
   <!-- CAROUSEL DE IMAGENS  -->
 
   <div class="enquadramento">
-    <h1>Quem Somos</h1>
+    <h1 id="list-item-1">Quem Somos</h1>
     <p></p>
     <div class="container">
       <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
